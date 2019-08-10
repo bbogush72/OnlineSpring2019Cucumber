@@ -32,6 +32,13 @@ public class LoginStepDefinitions {
     public void user_verifies_that_warning_message_is_displayed(String expected) {
         Assert.assertEquals(expected, pages.loginPage().getErrorMessage());
     }
+
+    @Then("user logs in as a driver")
+    public void user_logs_in_as_a_driver() {
+       String username = ConfigurationReader.getProperty("driverusername");
+       String password = ConfigurationReader.getProperty("driverpassword");
+       pages.loginPage().login(username, password);
+    }
     //this is temporary solution until we start using hooks
     @Then("user quits")
     public void user_quits() {
