@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
        // tags = {"@negative and storemanager"},
        // tags = {"@storemanager or negative"},
        // tags = {"@negative and storemanager"},
-        tags = {"@driver"},
+        tags = {"@vehicles"},
         features = {
             "src/test/resources/features" //to specify where are the features
         },
