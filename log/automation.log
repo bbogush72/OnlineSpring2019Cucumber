@@ -1,0 +1,119 @@
+2019-08-03 10:20:25 [main] INFO  TestBase:47 - Report path: X:\AppHangar\Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 10:20:39 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 10:20:52 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 10:21:07 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 10:21:31 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 10:21:51 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 10:22:07 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 10:22:25 [main] INFO  TestBase:71 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 10:22:27 [main] INFO  TestBase:109 - :: FLUSHING REPORT ::
+2019-08-03 10:30:09 [main] INFO  TestBase:48 - Report path: X:\AppHangar\Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 10:30:09 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-03 10:52:35 [main] INFO  TestBase:48 - Report path: X:\AppHangar\Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 10:52:35 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-03 11:05:00 [main] INFO  TestBase:48 - Report path: X:\AppHangar\Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 11:05:11 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 11:05:31 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 11:05:50 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 11:06:08 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 11:06:20 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 11:06:32 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 11:06:33 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-03 11:36:02 [main] INFO  TestBase:48 - Report path: X:\AppHangar\Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 11:36:13 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 11:36:23 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-03 11:38:16 [main] INFO  TestBase:48 - Report path: X:\AppHangar\Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 11:38:28 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 11:38:29 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-03 12:09:28 [main] INFO  TestBase:48 - Report path: X:\AppHangar\Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 12:09:40 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:09:51 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 12:10:06 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:10:17 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 12:10:23 [main] ERROR BasePage:52 - Loader mask doesn't present.
+2019-08-03 12:10:34 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:10:54 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 12:11:13 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:55:11 [main] INFO  TestBase:48 - Report path: X:\AppHangar\Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 13:55:23 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:55:29 [main] ERROR BasePage:74 - Failed to click on :: Activities
+2019-08-03 13:55:29 [main] ERROR BasePage:75 - java.lang.NumberFormatException: For input string: "10 #MOSTly used for explicit wait"
+2019-08-03 13:55:42 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:55:48 [main] ERROR BasePage:74 - Failed to click on :: Activities
+2019-08-03 13:55:48 [main] ERROR BasePage:75 - java.lang.NumberFormatException: For input string: "10 #MOSTly used for explicit wait"
+2019-08-03 13:56:01 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:56:06 [main] ERROR BasePage:74 - Failed to click on :: Activities
+2019-08-03 13:56:06 [main] ERROR BasePage:75 - java.lang.NumberFormatException: For input string: "10 #MOSTly used for explicit wait"
+2019-08-03 13:56:18 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:56:26 [main] ERROR BasePage:74 - Failed to click on :: Activities
+2019-08-03 13:56:26 [main] ERROR BasePage:75 - java.lang.NumberFormatException: For input string: "10 #MOSTly used for explicit wait"
+2019-08-03 13:56:39 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:56:43 [main] ERROR BasePage:74 - Failed to click on :: Activities
+2019-08-03 13:56:43 [main] ERROR BasePage:75 - java.lang.NumberFormatException: For input string: "10 #MOSTly used for explicit wait"
+2019-08-03 13:56:56 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:57:09 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:57:22 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:57:34 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:57:47 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:57:59 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 13:58:01 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-03 14:02:04 [main] INFO  TestBase:48 - Report path: X:\AppHangar\Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 14:02:16 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:02:21 [main] ERROR BasePage:88 - Failed to click on :: Activities
+2019-08-03 14:02:21 [main] ERROR BasePage:89 - java.lang.NumberFormatException: For input string: "10 "
+2019-08-03 14:02:33 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:02:38 [main] ERROR BasePage:88 - Failed to click on :: Activities
+2019-08-03 14:02:38 [main] ERROR BasePage:89 - java.lang.NumberFormatException: For input string: "10 "
+2019-08-03 14:02:51 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:02:58 [main] ERROR BasePage:88 - Failed to click on :: Activities
+2019-08-03 14:02:58 [main] ERROR BasePage:89 - java.lang.NumberFormatException: For input string: "10 "
+2019-08-03 14:03:10 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:03:14 [main] ERROR BasePage:88 - Failed to click on :: Activities
+2019-08-03 14:03:14 [main] ERROR BasePage:89 - java.lang.NumberFormatException: For input string: "10 "
+2019-08-03 14:03:26 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:03:32 [main] ERROR BasePage:88 - Failed to click on :: Activities
+2019-08-03 14:03:32 [main] ERROR BasePage:89 - java.lang.NumberFormatException: For input string: "10 "
+2019-08-03 14:03:44 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:03:56 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:04:08 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:04:20 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:04:32 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:04:43 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:04:45 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-03 14:13:22 [main] INFO  TestBase:48 - Report path: X:\AppHangar\Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 14:13:34 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:13:38 [main] ERROR BasePage:69 - Failed to click on :: Activities
+2019-08-03 14:13:38 [main] ERROR BasePage:70 - java.lang.NumberFormatException: For input string: ""10""
+2019-08-03 14:13:50 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:13:55 [main] ERROR BasePage:69 - Failed to click on :: Activities
+2019-08-03 14:13:55 [main] ERROR BasePage:70 - java.lang.NumberFormatException: For input string: ""10""
+2019-08-03 14:14:06 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:14:11 [main] ERROR BasePage:69 - Failed to click on :: Activities
+2019-08-03 14:14:11 [main] ERROR BasePage:70 - java.lang.NumberFormatException: For input string: ""10""
+2019-08-03 14:14:23 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:14:28 [main] ERROR BasePage:69 - Failed to click on :: Activities
+2019-08-03 14:14:28 [main] ERROR BasePage:70 - java.lang.NumberFormatException: For input string: ""10""
+2019-08-03 14:17:06 [main] INFO  TestBase:48 - Report path: X:\AppHangar\Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 14:17:18 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:17:22 [main] ERROR BasePage:69 - Failed to click on :: Activities
+2019-08-03 14:17:22 [main] ERROR BasePage:70 - java.lang.NumberFormatException: For input string: ""10""
+2019-08-03 14:20:23 [main] INFO  TestBase:48 - Report path: X:\AppHangar\Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 14:20:35 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:21:15 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:21:40 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:22:03 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:22:31 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:22:54 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:23:13 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:23:32 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:23:51 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:24:03 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:24:14 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:24:16 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::
+2019-08-03 14:57:51 [main] INFO  TestBase:48 - Report path: X:\AppHangar\Spring2019FinalTestNGFramework/test-output/reports/08_03_2019/report.html
+2019-08-03 14:58:03 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:58:22 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:58:42 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:59:01 [main] INFO  TestBase:72 - URL: http://qa2.vytrack.com/user/login
+2019-08-03 14:59:18 [main] ERROR BasePage:49 - Loader mask doesn't present.
+2019-08-03 14:59:24 [main] INFO  TestBase:110 - :: FLUSHING REPORT ::

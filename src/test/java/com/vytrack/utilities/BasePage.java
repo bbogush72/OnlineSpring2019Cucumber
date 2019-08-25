@@ -1,4 +1,5 @@
 package com.vytrack.utilities;
+import com.aventstack.extentreports.gherkin.model.Then;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
@@ -13,21 +14,18 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public abstract class BasePage {
     //we don't want to access these variables outside
     private static final Logger logger = LogManager.getLogger();
-
-
     @FindBy(css = "div[class='loader-mask shown']")
     @CacheLookup
     protected WebElement loaderMask;
-
     @FindBy(css = "h1[class='oro-subtitle']")
     protected WebElement pageSubTitle;
-
-
+    @FindBy(css = "#user-menu > a")
+    protected WebElement usersFullName;
+    @FindBy(linkText = "Logout")
+    protected WebElement logout;
     public BasePage() {
         PageFactory.initElements(Driver.getDriver(), this);
     }
-
-
     /**
      * @return page name, for example: Dashboard
      */
@@ -37,8 +35,6 @@ public abstract class BasePage {
         BrowserUtils.waitForStaleElement(pageSubTitle);
         return pageSubTitle.getText();
     }
-
-
     /**
      * Waits until loader screen present. If loader screen will not pop up at all,
      * NoSuchElementException will be handled  bu try/catch block
@@ -53,7 +49,6 @@ public abstract class BasePage {
             System.out.println("Loader mask doesn't present.");
         }
     }
-
     /**
      * This method will navigate user to the specific module in vytrack application.
      * For example: if tab is equals to Activities, and module equals to Calls,
@@ -86,5 +81,14 @@ public abstract class BasePage {
             BrowserUtils.clickWithTimeOut(Driver.getDriver().findElement(By.xpath(moduleLocator)),  Integer.valueOf(ConfigurationReader.getProperty("SHORT_WAIT")));
         }
     }
-
+    public String getUsersFullName(){
+        waitUntilLoaderScreenDisappear();
+        BrowserUtils.waitForVisibility(usersFullName, Integer.valueOf(ConfigurationReader.getProperty("SHORT_WAIT")));
+        return usersFullName.getText();
+    }
+    public void logout(){
+        BrowserUtils.waitForStaleElement(usersFullName);
+        usersFullName.click();
+        logout.click();
+    }
 }

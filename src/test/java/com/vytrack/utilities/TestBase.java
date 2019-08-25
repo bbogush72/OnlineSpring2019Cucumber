@@ -43,6 +43,7 @@ public class TestBase {
             test = "reports";
         }
         String filePath = System.getProperty("user.dir") + "/test-output/" + test + "/" + LocalDate.now().format(DateTimeFormatter.ofPattern("MM_dd_yyyy")) + "/report.html";
+
         htmlReporter = new ExtentHtmlReporter(filePath);
         logger.info("Report path: "+filePath);
         report.attachReporter(htmlReporter);
